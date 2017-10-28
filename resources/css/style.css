@@ -110,15 +110,6 @@ header .mobile {
     height: 48px;
   }
 
-  /*header .mobile .button {
-    padding: .1875rem .5rem;
-    background-color: #9dc20b;
-    line-height: 1.6;
-    color: white;
-    margin-left: 0;
-    padding-left: 0;
-  }*/
-
   header .mobile {
     display: inline-block;
     width: 100%;
